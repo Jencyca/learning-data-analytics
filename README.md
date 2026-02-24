@@ -6,5 +6,7 @@ I am currently building a strong foundation in:
 - Python for Data Analysis (Pandas)
 - SQL for data querying and analysis
 
-The repository will be updated regularly with hands-on practice notebooks
-and small exercises as I progress and strengthen my analytical skills.
+## Daily Progress
+
+- Day 1: Learned SQL basics (SELECT, WHERE) and Pandas DataFrame fundamentals.
+- Day 2: Practiced SQL filtering, sorting and joins. Applied Pandas concepts on my own dataset and explored data structure.
