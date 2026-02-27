@@ -15,3 +15,4 @@ I am currently building a strong foundation in:
 
 ## Pandas Practice
 This notebook contains hands-on Pandas practice on a real dataset.It focuses on understanding data structure, basic statistics,handling missing values, and simple filtering.
+- Day 5: Calculated churn rate, estimated revenue loss, and analyzed tenure impact using SQL logic.
