@@ -52,3 +52,11 @@ Detect suspicious patterns to minimize fraud impact.
 - Assumptions and limitations will be clearly stated
 - Final output will include a realistic dashboard and
   a 1-page executive summary
+
+Churn rate = 26.5 %
+
+Monthly revenue loss = ₹ 139130.85
+
+Avg tenure (churned) = 17.979 months
+
+Business meaning long-term high value customers are churning, indicating competitive pricing issue that needs urgent action.
