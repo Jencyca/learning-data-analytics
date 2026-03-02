@@ -18,3 +18,4 @@ This notebook contains hands-on Pandas practice on a real dataset.It focuses on 
 - Day 5: Calculated churn rate, estimated revenue loss, and analyzed tenure impact using SQL logic.
 - Day 6: Learned SQL aggregation functions and try to solve Hackerrank SQL Basic problems.
 - Day 7: Learned SQL inserting, updating, deleting and solved Hackerrank SQL problems.
+- Day 8: Solved Hackerrank SQL problems(Basics)
