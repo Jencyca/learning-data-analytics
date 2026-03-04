@@ -19,3 +19,4 @@ This notebook contains hands-on Pandas practice on a real dataset.It focuses on 
 - Day 7: Learned SQL inserting, updating, deleting and solved Hackerrank SQL problems.
 - Day 8: Solved Hackerrank SQL problems(Basics)
 - Day 9: Worked with Customer churn Project(Handled missing values and corrected data types) and solved Hackerrank SQL problems.
+- Day 10: Completed Deloitte Data Analysis Certification and solved Hackerrank SQL problems.
