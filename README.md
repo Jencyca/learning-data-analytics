@@ -21,3 +21,4 @@ This notebook contains hands-on Pandas practice on a real dataset.It focuses on 
 - Day 9: Worked with Customer churn Project(Handled missing values and corrected data types) and solved Hackerrank SQL problems.
 - Day 10: Completed Deloitte Data Analysis Certification and solved Hackerrank SQL problems.
 - Day 11: Completed exploratory data analysis for churn distribution and customer segmentation. Analyzed churn by contract, payment method, internet service, and tenure. Solved Hackerrank SQL problems.
+- Day 12: Solved Hackerrank SQL problems(Intermidiate) and Started Excel Basics.
