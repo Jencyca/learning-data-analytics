@@ -23,3 +23,4 @@ This notebook contains hands-on Pandas practice on a real dataset.It focuses on 
 - Day 11: Completed exploratory data analysis for churn distribution and customer segmentation. Analyzed churn by contract, payment method, internet service, and tenure. Solved Hackerrank SQL problems.
 - Day 12: Solved Hackerrank SQL problems(Intermidiate) and Started Excel Basics.
 - Day 13: Performed deep exploratory data analysis including tenure segmentation,monthly charge analysis, senior citizen churn comparison, and correlation study and Hackerrank SQL problems.
+- Day 14: Performed SQL analysis to calculate churn distribution, churn percentage, revenue loss from churned customers, and identified high-risk customer segments based on contract type, payment method, and tenure and Solved Hackerrank SQL problems.
