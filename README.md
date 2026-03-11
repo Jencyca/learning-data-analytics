@@ -26,4 +26,4 @@ This notebook contains hands-on Pandas practice on a real dataset.It focuses on 
 - Day 14: Performed SQL analysis to calculate churn distribution, churn percentage, revenue loss from churned customers, and identified high-risk customer segments based on contract type, payment method, and tenure and Solved Hackerrank SQL problems.
 - Day 15: Implemented Logistic Regression and Decision Tree models to predict customer churn. Evaluated models using accuracy, precision, recall, and confusion matrix and Implemented cost impact analysis including monthly revenue loss, annual revenue loss, and potential savings from churn reduction. Finished Hackerrank SQL probelms and earned SQL(Basic) and SQL(Intermediate) Certifications.
 - Day 16: Finished Dashboard for Customer Churn Project using PowerBI.
-
+- Day 17: Completed Customer Churn Project and uploaded in Github.
