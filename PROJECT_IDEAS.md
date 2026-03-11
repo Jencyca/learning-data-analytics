@@ -1,59 +1,30 @@
-# Analytics Project Ideas
+Tech Stack
 
-This document outlines potential end-to-end analytics projects
-with clear business problems, KPIs, and decision-making focus.
+Programming Language
 
------------------------------------------------------------------------------------------------------------
+Python
 
-## Retail Demand Forecasting
-**Business Problem:**  
-Retailers struggle with overstocking and stockouts due to inaccurate demand estimation.
+Python Libraries
 
-**Objective:**  
-Forecast product demand to improve inventory planning and reduce losses.
+Pandas – Data cleaning and manipulation
 
-**Key KPIs:**  
-- Inventory holding cost (₹)
-- Stockout rate (%)
-- Forecast accuracy (%)
+NumPy – Numerical computations
 
------------------------------------------------------------------------------------------------------------
+Seaborn / Matplotlib – Data visualization
 
-## Customer Churn + Revenue Impact
-**Business Problem:**  
-Customer churn directly affects recurring revenue and growth.
+Scikit-learn – Machine learning models
 
-**Objective:**  
-Identify churn drivers and estimate revenue at risk.
+Database
 
-**Key KPIs:**  
-- Churn rate (%)
-- Revenue loss (₹)
-- Customer lifetime value (₹)
+MySQL – Customer churn analysis using analytical SQL queries
 
------------------------------------------------------------------------------------------------------------
+Tools
 
-## Fraud Analytics
-**Business Problem:**  
-Fraudulent transactions cause financial loss and trust issues.
+Jupyter Notebook – Data analysis and model building
 
-**Objective:**  
-Detect suspicious patterns to minimize fraud impact.
+MySQL Workbench – SQL query execution and database management
 
-**Key KPIs:**  
-- Fraud loss (₹)
-- Fraud rate (%)
-- False positive rate (%)
-
----
-
-## Notes
-- Each project will include EDA → Insights → Business Decisions
-- Assumptions and limitations will be clearly stated
-- Final output will include a realistic dashboard and
-  a 1-page executive summary
-
-Churn rate = 26.5 %
+Power BI – Business dashboard visualization
 
 Monthly revenue loss = ₹ 139130.85
 
